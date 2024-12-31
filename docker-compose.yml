@@ -14,6 +14,16 @@ services:
     networks:
       - gerneral_network
 
+  api:
+    build: ./poker_api/
+    command: bundle exec rails s -b '0.0.0.0'
+    volumes:
+      - ./poker_api:/poker_api
+    ports:
+      - "3333:3000"
+    networks:
+      - gerneral_network
+
 networks:
   gerneral_network:
     driver: bridge
