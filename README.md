@@ -110,3 +110,7 @@ O projeto utiliza o **Action Cable** do Rails para implementar comunicação em 
   [Arquivo](/texas-poker.postman_collection.json)
 
 ---
+
+### Video demosntrativo (não - finalizado)
+
+[link do vídeo](https://www.youtube.com/watch?v=GGe7QpPBFZ4)
