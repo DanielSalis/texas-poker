@@ -10,7 +10,7 @@ Este projeto é composto por três repositórios que juntos criam uma aplicaçã
 
         bash
 
-        `git clone https://github.com/DanielSalis/poker_api.git
+        `https://github.com/DanielSalis/texas-poker.git
 
     cd texas_poker`
 
