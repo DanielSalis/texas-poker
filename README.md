@@ -111,6 +111,7 @@ O projeto utiliza o **Action Cable** do Rails para implementar comunicação em 
 
 ---
 
-### Video demosntrativo (não - finalizado)
+### Video demonstrativo (não - finalizado)
 
-[link do vídeo](https://www.youtube.com/watch?v=GGe7QpPBFZ4)
+- v1 - [link do vídeo](https://www.youtube.com/watch?v=GGe7QpPBFZ4)
+- v2 - [link do vídeo](https://youtu.be/Gl7Fyj5_Ey4)
