@@ -115,3 +115,20 @@ O projeto utiliza o **Action Cable** do Rails para implementar comunicação em 
 
 - v1 - [link do vídeo](https://www.youtube.com/watch?v=GGe7QpPBFZ4)
 - v2 - [link do vídeo](https://youtu.be/Gl7Fyj5_Ey4)
+
+<details>
+  <summary>Capturas de Tela Adicionais</summary>
+
+- **Tela de criação de sala:** [home-create.png](/assets/home-create.png)
+
+- **Tela de entrada em sala:** [home-join.png](/assets/home-join.png)
+
+- **Todas as salas:** [all-rooms.png](/assets/all-rooms.png)
+
+- **Entrar em uma sala específica:** [all-rooms-join](/assets/all-rooms-join.png)
+
+- **Visualização de uma sala:** [room](/assets/id-room.png)
+
+- **Diagrama de banco de dados** [banco de dados](/assets/db.png)
+
+</details>
